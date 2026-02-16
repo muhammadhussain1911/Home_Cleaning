@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# Crawl delay
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://healthyhomeservices.com/sitemap.xml
